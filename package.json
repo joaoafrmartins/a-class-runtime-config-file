@@ -1,0 +1,30 @@
+{
+  "name": "a-class-runtime-config-file",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "description": "A Class Runtime Config File",
+  "keywords": [
+    "a",
+    "class",
+    "runtime",
+    "config",
+    "file"
+  ],
+  "dependencies": {
+    "mixto": ""
+  },
+  "devDependencies": {
+    "kosher": ""
+  },
+  "scripts": {
+    "test": "mocha --reporter spec --compilers coffee:coffee-script/register ./spec"
+  },
+  "homepage": "https://github.com/joaoafrmartins/a-class-runtime-config-file",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-class-runtime-config-file.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-class-runtime-config-file/issues"
+  }
+}
