@@ -26,5 +26,7 @@
   },
   "bugs": {
     "url": "https://github.com/joaoafrmartins/a-class-runtime-config-file/issues"
-  }
+  },
+  "author": "João Afonso Martins",
+  "license": "MIT"
 }
